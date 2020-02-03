@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.post{
+    margin: 100px 0px 0px 0px; 
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+
+}
+.card{
+    margin: auto;
+}
+.titulo{
+    margin: auto;
+    width: 100%;
+    margin: 0px 0px 50px 0px;
+}
+.titulo_pagina{
+    text-align: center;
+    font-size: 40px;
+}
+/*Fin del header*/
+
+
